@@ -8,6 +8,7 @@ The unusual part of my path: I started as a software engineer, became a Product 
 
 What I care about in code: knowing which problems need a model and which need a regex. I wrote up my thinking in a few posts:
 
+- [Next.js and Postgres on Cloudflare Workers: building BayarKerja](https://preemz.github.io/blog-bayarkerja-stack.html): a pre-launch Indonesian payroll product, why the runtime chose the database driver, and payroll runs without transactions
 - [Why half our matches said 100%](https://preemz.github.io/blog-scoring-engine.html): rebuilding the fit-scoring engine from pass/fail bars to a graded rubric, and turning the fairness guardrail into a CI test
 - [An end-to-end AI recruiting pipeline in production](https://preemz.github.io/blog-ai-recruiting-pipeline.html): LLM resume parsing, explainable fit scoring, and why every score ships with its reasons
 - [KerjaBoard is now GDPR-ready](https://preemz.github.io/blog-kerjaboard-gdpr.html): EU and Indonesian privacy regimes on one Worker and one database
