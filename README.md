@@ -8,6 +8,7 @@ The unusual part of my path: I started as a software engineer, became a Product 
 
 What I care about in code: knowing which problems need a model and which need a regex. I wrote up my thinking in a few posts:
 
+- [Designing a CV reformatter](https://preemz.github.io/blog-cv-reformatter.html): any candidate CV into a client's exact Word template, five ways PDFs hide their text, and a review screen that shows gaps instead of guesses
 - [Building a client CRM on Cloudflare Workers, one weekend](https://preemz.github.io/blog-crm-outbound.html): replacing two years of Google Sheets, and a reply classifier that passed nine tests and was wrong on three real sentences
 - [Next.js and Postgres on Cloudflare Workers: building BayarKerja](https://preemz.github.io/blog-bayarkerja-stack.html): a pre-launch Indonesian payroll product, why the runtime chose the database driver, and payroll runs without transactions
 - [Why half our matches said 100%](https://preemz.github.io/blog-scoring-engine.html): rebuilding the fit-scoring engine from pass/fail bars to a graded rubric, and turning the fairness guardrail into a CI test
