@@ -8,6 +8,8 @@ The unusual part of my path: I started as a software engineer, became a Product 
 
 What I care about in code: knowing which problems need a model and which need a regex. I wrote up my thinking in a few posts:
 
+- [Measuring an AI fit assessment](https://preemz.github.io/blog-fit-evals.html): 302 frozen recruiter decisions, 99 I trust, an agreement number that equals always guessing the majority, and a cheaper model that failed on grounding
+- [Searching candidate CVs by words and by meaning](https://preemz.github.io/blog-hybrid-retrieval.html): hybrid BM25 and embedding search, a scrub for stored text, and a benchmark gate the new search failed
 - [How KerjaBoard recommends jobs and candidates](https://preemz.github.io/blog-kerjaboard-recommendations.html): two scoring passes writing one table, delivery rules that cap email, region and visa handling, and how the system fails quietly
 - [Designing a CV reformatter](https://preemz.github.io/blog-cv-reformatter.html): any candidate CV into a client's exact Word template, five ways PDFs hide their text, and a review screen that shows gaps instead of guesses
 - [Building a client CRM on Cloudflare Workers, one weekend](https://preemz.github.io/blog-crm-outbound.html): replacing two years of Google Sheets, and a reply classifier that passed nine tests and was wrong on three real sentences
